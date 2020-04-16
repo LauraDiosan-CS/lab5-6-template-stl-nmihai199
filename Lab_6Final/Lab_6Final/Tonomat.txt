@@ -1,0 +1,2 @@
+1 mihai 10
+2 george 1000

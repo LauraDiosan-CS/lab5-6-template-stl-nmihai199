@@ -1,0 +1,36 @@
+﻿  main.cpp
+  Service.cpp
+c:\users\mihai\source\repos\lab_6final\lab_6final\repo.h(54): warning C4018: '<': signed/unsigned mismatch
+  c:\users\mihai\source\repos\lab_6final\lab_6final\repo.h(53): note: while compiling class template member function 'void Repo<Produs>::delet(int)'
+  c:\users\mihai\source\repos\lab_6final\lab_6final\service.cpp(35): note: see reference to function template instantiation 'void Repo<Produs>::delet(int)' being compiled
+  c:\users\mihai\source\repos\lab_6final\lab_6final\service.h(11): note: see reference to class template instantiation 'Repo<Produs>' being compiled
+c:\users\mihai\source\repos\lab_6final\lab_6final\repo.h(61): warning C4018: '<': signed/unsigned mismatch
+  c:\users\mihai\source\repos\lab_6final\lab_6final\repo.h(60): note: while compiling class template member function 'void Repo<Produs>::modif(int,T)'
+          with
+          [
+              T=Produs
+          ]
+  c:\users\mihai\source\repos\lab_6final\lab_6final\service.cpp(41): note: see reference to function template instantiation 'void Repo<Produs>::modif(int,T)' being compiled
+          with
+          [
+              T=Produs
+          ]
+  teste.cpp
+c:\users\mihai\source\repos\lab_6final\lab_6final\repo.h(54): warning C4018: '<': signed/unsigned mismatch
+  c:\users\mihai\source\repos\lab_6final\lab_6final\repo.h(53): note: while compiling class template member function 'void Repo<Produs>::delet(int)'
+  c:\users\mihai\source\repos\lab_6final\lab_6final\teste.cpp(43): note: see reference to function template instantiation 'void Repo<Produs>::delet(int)' being compiled
+  c:\users\mihai\source\repos\lab_6final\lab_6final\service.h(11): note: see reference to class template instantiation 'Repo<Produs>' being compiled
+c:\users\mihai\source\repos\lab_6final\lab_6final\repo.h(61): warning C4018: '<': signed/unsigned mismatch
+  c:\users\mihai\source\repos\lab_6final\lab_6final\repo.h(60): note: while compiling class template member function 'void Repo<Produs>::modif(int,T)'
+          with
+          [
+              T=Produs
+          ]
+  c:\users\mihai\source\repos\lab_6final\lab_6final\teste.cpp(59): note: see reference to function template instantiation 'void Repo<Produs>::modif(int,T)' being compiled
+          with
+          [
+              T=Produs
+          ]
+  UI.cpp
+  Generating Code...
+  Lab_6Final.vcxproj -> C:\Users\Mihai\source\repos\Lab_6Final\Debug\Lab_6Final.exe
